@@ -1,0 +1,4 @@
+Podsumowanie zamówienia
+PHP i MySQL. Dla każdego (99.00 PLN / szt) Ilość: 3 Cena: 297.00 PLN
+PHP, MySQL i JavaScript. Wprowadzenie (107.10 PLN / szt) Ilość: 4 Cena: 428.40 PLN
+Całkowita ilość książek i ich cena Ilość: 7 Cena: 725.40 PLN
